@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Zuhal! 👋
 
 <!--
 **ZuhalOlomi/ZuhalOlomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Ccomputer Science
+
 coming soon..
