@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Ccomputer Science
+ ##coming soon..
