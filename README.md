@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Ccomputer Science
- ##coming soon..
+I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Ccomputer Science
+coming soon..
