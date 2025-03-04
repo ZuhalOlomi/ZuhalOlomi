@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Ccomputer Science
+I'm Zuhal, a second year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. 
 
-coming soon..
+🔭 I'm currently working on a machine learning project that involves being able to detect glioblastomas from preprocessed fMRI images. 
+🌱 I'm currently learning about human perception and optics. How we percieve objects and faces in the environment and link them to memory! 
+💬 Ask me about anything. I'm willing to have a chat! ☕️
