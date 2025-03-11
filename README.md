@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: margin-right;">
+<div style="display: flex; align-items: center;">
   <img src="https://github.com/ZuhalOlomi/ZuhalOlomi/blob/4c0d3a19bd3a9940e0d0968c6eeffd19e6cac95a/1%20no.jpeg?raw=true" alt="Image Alt" style="width: 200px; margin-right: 20px;">
   <p>
     <strong>Hey, I'm Zuhal! 👋</strong><br>
