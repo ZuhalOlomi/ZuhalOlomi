@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/ZuhalOlomi/ZuhalOlomi/blob/4c0d3a19bd3a9940e0d0968c6eeffd19e6cac95a/1%20no.jpeg?raw=true" alt="Zuhal's Profile Image" style="width: 200 px; margin-right: 20 px; border-radius: 10 px;">
+    <img src="https://github.com/ZuhalOlomi/ZuhalOlomi/blob/4c0d3a19bd3a9940e0d0968c6eeffd19e6cac95a/1%20no.jpeg?raw=true" alt="Zuhal's Profile Image" style="width: 150 px; margin-right: 20 px; border-radius: 10 px;">
     <div>
         <h1>Hey, I'm Zuhal! 👋</h1>
         <p>
