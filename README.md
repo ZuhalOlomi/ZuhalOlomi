@@ -2,7 +2,7 @@
 
 <h3 align=center>I'm Zuhal, a second-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my Github.<br>
 It's still under construction... Coming soon!</h3>
-[LinkedIn]: https://img.shields.io/badge/Title-37a779?style=for-the-badge](https://www.linkedin.com/in/zuhalolomi/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-37a779?style=for-the-badge)](https://www.linkedin.com/in/zuhalolomi/)
 
 
 🔭 I'm currently working on a machine learning project that involves detecting glioblastomas from preprocessed fMRI images.<br>
