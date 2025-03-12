@@ -20,4 +20,10 @@ TBC
 
 ---
 <h3>Book Recommentations</h3>
-TBC
+
+<div style="display: flex; align-items: center;">
+  <img src="[BOOK_IMAGE_URL](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482891316i/29779231.jpg)" alt="Book Cover" width="150px" style="margin-right: 20 px; border-radius: 10 px;">
+  <p><strong>Book Title - Author</strong><br>
+  When Breath Become Air by Dr. Paul Kalanithi.</p>
+</div>
+
