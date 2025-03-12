@@ -15,5 +15,9 @@ It's still under construction... Coming soon!</h3>
 💬 Ask me about anything. I'm always open to chatting! ☕
 
 ---
+<h3>Favourite Projects</h3>
+TBC
+
+---
 <h3>Book Recommentations</h3>
 TBC
