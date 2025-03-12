@@ -22,9 +22,10 @@ TBC
 <h3>Book Recommentations</h3>
 
 <div style="display: flex; align-items: center;">
-  <img src="[https://raw.githubusercontent.com/zuhalolomi/zuhalolomi/main/whenbreathbecomesair.jpg
-]" alt="Book Cover" width="150px" style="margin-right: 20 px; border-radius: 10 px;">
+  <img src="https://raw.githubusercontent.com/zuhalolomi/zuhalolomi/main/whenbreathbecomesair.jpg" 
+       alt="Book Cover" width="150px" style="margin-right: 20 px; border-radius: 10 px;">
   <p><strong>When Breath Becomes Air - Dr. Paul Kalanithi</strong><br>
-  When Breath Become Air by Dr. Paul Kalanithi.</p>
+  A deeply moving memoir by a neurosurgeon facing his own mortality.</p>
 </div>
+
 
