@@ -14,5 +14,6 @@ It's still under construction... Coming soon!</h3>
 📚 I'm in love with the brain! I enjoy reading neuroscience and psychology books during my free time<br>
 💬 Ask me about anything. I'm always open to chatting! ☕
 
---
-#Book Recommendations 🤓
+
+<h3>Book Recommentations</h3>
+TBC
