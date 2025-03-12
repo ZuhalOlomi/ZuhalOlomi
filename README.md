@@ -13,3 +13,6 @@ It's still under construction... Coming soon!</h3>
 🌱 I'm currently learning about human perception and optics—how we perceive objects and faces in the environment and link them to memory!<br>
 📚 I'm in love with the brain! I enjoy reading neuroscience and psychology books during my free time<br>
 💬 Ask me about anything. I'm always open to chatting! ☕
+
+--
+#Book Recommendations 🤓
