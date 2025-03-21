@@ -47,7 +47,10 @@
 
 ## Favourite Books and Papers
 <p align="left">
+  ###Papers
 📄 Shen G, Horikawa T, Majima K, Kamitani Y (2019) Deep image reconstruction from human brain activity. PLOS Computational Biology 15(1): e1006633.https://doi.org/10.1371/journal.pcbi.1006633 <br>
-TBC
+  ###Books
+📚When Breath Becomes Air by Dr. Paul Kalanithi<br>
+  TBC
 </p>
 
