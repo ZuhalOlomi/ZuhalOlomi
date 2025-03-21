@@ -39,7 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhalOlomi&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-### Top Contributed Repository
-<p align="center"></p>
+## Top Contributed Repository
+<p align="center">TBC</p>
 
-### Favourite Books and Papers
+## Favourite Books and Papers
+<p align="center">TBC</p>
