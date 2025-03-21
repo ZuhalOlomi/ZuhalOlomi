@@ -1,7 +1,7 @@
 <div align="center">
   <h1>I'm Zuhal! 👋</h1>
   <h3>I'm Zuhal, a second-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my GitHub.<br>
-  It's still under construction... Coming soon!</h3>
+  </h3>
 </div>
 
 <p align="center">
