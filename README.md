@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/zuhalolomi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     <a href="https://www.kaggle.com/zuhalolomi/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle">
+      <img src="https://img.shields.io/badge/Kaggle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle">
   </a>
 </p>
 
