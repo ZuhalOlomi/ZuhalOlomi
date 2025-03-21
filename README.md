@@ -46,7 +46,7 @@
 <p align="center">TBC</p>
 
 ## Favourite Books and Papers
-<p align="center">
+<p align="left">
 Shen G, Horikawa T, Majima K, Kamitani Y (2019) Deep image reconstruction from human brain activity. PLOS Computational Biology 15(1): e1006633.https://doi.org/10.1371/journal.pcbi.1006633 
   TBC
 </p>
