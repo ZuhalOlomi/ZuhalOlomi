@@ -12,13 +12,13 @@
   </a>
 </p>
 
-## About Me:
-🔭 I'm currently working on a machine learning project that involves detecting glioblastomas from preprocessed fMRI images.<br>
-🌱 I'm currently learning about human perception and optics—how we perceive objects and faces in the environment and link them to memory!<br>
-📚 I'm in love with the brain! I enjoy reading neuroscience and psychology books during my free time.<br>
+## About Me ✨:
+🧠 I'm currently working on a machine learning project that involves detecting glioblastomas from preprocessed fMRI images.<br>
+👁️ I'm currently learning about human perception and optics—how we perceive objects and faces in the environment and link them to memory!<br>
+📖 I'm in love with the brain! I enjoy reading neuroscience and psychology books during my free time.<br>
 💬 Ask me about anything. I'm always open to chatting! ☕
 
-## Tech Stack:
+## Tech Stack 🛠️:
 <p align="center">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -35,17 +35,17 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-## GitHub Stats:
+## GitHub Stats 📈:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZuhalOlomi&theme=rose&hide_border=false&include_all_commits=true&count_private=true"><br/>
   <img src="https://streak-stats.demolab.com/?user=ZuhalOlomi&theme=rose&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhalOlomi&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-## Top Contributed Repository
+## Top Contributed Repository:
 <p align="center">TBC</p>
 
-## Favourite Books and Papers
+## Favourite Books and Papers:
 <p align="left">
 
 ### Papers
