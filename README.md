@@ -40,4 +40,6 @@
 </p>
 
 ### Top Contributed Repository
-<p align=
+<p align="center"></p>
+
+### Favourite Books and Papers
