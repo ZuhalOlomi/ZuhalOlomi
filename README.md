@@ -18,13 +18,6 @@
 📖 I'm in love with the brain! I enjoy reading neuroscience and psychology books during my free time.<br>
 💬 Ask me about anything. I'm always open to chatting! ☕
 
-## Experiences
-### Undergraduate Researcher
-#### University of Toronto, Department of Computer Sciences
-
-### Research Assistant
-#### University of Toronto, Ontario Institute of Studies in Education
-
 ## Tech Stack 🛠️:
 <p align="center">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
