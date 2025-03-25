@@ -1,6 +1,7 @@
 <div align="center">
   <h1>I'm Zuhal! 👋</h1>
   <h3>I'm Zuhal, a second-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my GitHub.<br>
+    Under construction<br>
   </h3>
 </div>
 
@@ -44,6 +45,13 @@
 
 ## Top Contributed Repository:
 <p align="center">TBC</p>
+<div style="border: 2 px solid #3498db; padding: 10 px; border-radius: 10 px; background: #f0f8ff;">
+  <ul>
+    <li><a href="https://github.com/ZuhalOlomi/ZuhalOlomi">Project 1 (README.md)</a></li>
+    <li><a href="https://github.com/ZuhalOlomi/ZuhalOlomi">Project 2--Glioblastoma Detection</a></li>
+  </ul>
+</div>
+
 
 ## Favourite Books and Papers:
 <p align="left">
