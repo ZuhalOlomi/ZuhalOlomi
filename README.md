@@ -55,8 +55,7 @@
 
 ## Favorite Books & Papers 📚
 ### **Research Papers**  
-📄 Shen G, Horikawa T, Majima K, Kamitani Y (2019) **Deep image reconstruction from human brain activity**.  
-🔗 [Read Here](https://doi.org/10.1371/journal.pcbi.1006633)  
+📄 [Shen G, Horikawa T, Majima K, Kamitani Y (2019) **Deep image reconstruction from human brain activity**.](https://doi.org/10.1371/journal.pcbi.1006633)  
 
 ### **Books**  
 📚 *When Breath Becomes Air* – Dr. Paul Kalanithi  
