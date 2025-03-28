@@ -49,15 +49,6 @@
   <img src="https://streak-stats.demolab.com/?user=ZuhalOlomi&theme=rose&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhalOlomi&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
----
-
-## Featured Projects 🚀
-### 📌 Glioblastoma Detection (ML-based)  
-- 🔬 **Goal:** Detect glioblastomas from preprocessed fMRI images using deep learning.  
-- 🛠 **Tech:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas  
-- 🔗 **Repo:** [Glioblastoma Detection](https://github.com/ZuhalOlomi/Glioblastoma-Detection)  
-
 ---
 
 ## Favorite Books & Papers 📚
