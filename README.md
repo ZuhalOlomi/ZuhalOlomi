@@ -20,7 +20,7 @@
 - 🧠 Currently working on a **machine learning project** to detect glioblastomas from preprocessed fMRI images.  
 - 👁️ Exploring **human perception & optics**—how we recognize objects, faces, and link them to memory!  
 - 📖 Passionate about **neuroscience & psychology**—I love reading books on these topics in my free time.  
-- 💬 **Ask me anything!** I'm always open to discussions. ☕
+- 💬 **Ask me anything!** I'm always open to chat! ☕
 
 ---
 
