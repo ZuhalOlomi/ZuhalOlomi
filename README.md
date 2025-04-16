@@ -51,12 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhalOlomi&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
----
-
-## Favorite Books & Papers 📚
-### **Research Papers**  
-📄 [Shen G, Horikawa T, Majima K, Kamitani Y (2019) **Deep image reconstruction from human brain activity**.](https://doi.org/10.1371/journal.pcbi.1006633)  
-
-### **Books**  
-📚 *When Breath Becomes Air* – Dr. Paul Kalanithi  
-📚 *Reprogramming the Brain: A Guide to the Future of the Brain and Neuromodulation by a Patient and his Doctor* - Dr. Alfonso Fasano & Ben Stecher
