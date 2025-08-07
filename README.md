@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>
-    I'm Zuhal! 👋  
-  </h1>
-<a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Neuroscience+Student;Writer;Aspiring+scientist" alt="Typing SVG" /> 
-</a>
+  <h1>I'm Zuhal! 👋</h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Neuroscience+Student;Writer;Aspiring+scientist" alt="Typing SVG" />
+  </p>
+
   <h3>
     I'm a second-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my GitHub!<br>
   </h3>
