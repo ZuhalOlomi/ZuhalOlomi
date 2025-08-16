@@ -1,6 +1,6 @@
 <div align="center">
   <h1>I'm Zuhal! 👋</h1>
-  <h2>Cognitive Neuroscience @ UofT • Writer • Aspiring Physician-Scientist</h2>
+  <h2>Cognitive Neuroscience @ UofT | Writer | Aspiring Scientist </h2>
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Neuroscience+Student;Writer;Aspiring+Scientist;Exploring+AI+in+Healthcare;Future+Physician-Scientist" alt="Typing SVG" />
