@@ -6,7 +6,7 @@
   </p>
 
   <h3>
-    I'm a second-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my GitHub!  
+    I'm a fourth-year student at UofT specializing in Cognitive Neuroscience and minoring in Computer Science. Welcome to my GitHub!  
   </h3>
 </div>
 
